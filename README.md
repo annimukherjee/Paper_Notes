@@ -3,6 +3,13 @@
 Inspired from [Daniel Seita](https://github.com/DanielTakeshi/Paper_Notes/tree/master?tab=readme-ov-file) and [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes).
 
 
+### How I read papers:
+1. 1st pass is just a quick read through the Abstract, Introduction and Conclusion and a cursory glance of Figure 2 and the results in the Experiments section.
+2. 2nd pass is reading each sentence, highlighting interesting sentences and 
+
+
+
+
 Paper's I've read with notes listed in no particular order here.
 
 
