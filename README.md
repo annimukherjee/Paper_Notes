@@ -2,14 +2,14 @@
 
 Inspired from [Daniel Seita](https://github.com/DanielTakeshi/Paper_Notes/tree/master?tab=readme-ov-file) and [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes).
 
+---
 
 ### How I read papers:
-1. 1st pass is just a quick read through the Abstract, Introduction and Conclusion and a cursory glance of Figure 2 and the results in the Experiments section.
-2. 2nd pass is reading each sentence intently, highlighting interesting sentences and making sure I understand deeply what each paragraph conveys.
-3. 3rd pass is to write notes either on paper or digitally as if I'm presenting this paper to my friend / advisor so that they understand it easily without ever having to read the paper. 
+1. The 1st pass is just a quick read through the _Abstract_, _Introduction_ and _Conclusion_ and a cursory glance of _Figure 2_ and the results in the _Experiments_ section.
+2. Moving on, the 2nd pass of the paper is to read each sentence intently, highlighting interesting sentences and making sure I understand what each paragraph tries to convey in a comprehensive manner.
+3. Lastly, the 3rd pass is to write notes either on paper or digitally as if I'm presenting this paper to my friend / advisor so that they understand it easily without ever having to read the paper. 
 
-
-
+---
 
 Paper's I've read with notes listed in no particular order below. Further, papers are numbered on a (1) to (5) scale where a (1) means I have only barely skimmed it, while a (5) means I feel confident that I understand almost everything about the paper.
 
