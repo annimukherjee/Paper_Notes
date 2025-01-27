@@ -18,5 +18,5 @@ Paper's I've read with notes listed in no particular order below. Further, paper
 - **Conservative Predictions on Noisy Financial Data** ([paper](https://arxiv.org/abs/2310.11815))
 - **The AI Alignment Paradox** ([paper](https://arxiv.org/abs/2405.20806v2)) [2 / 5]
 - **VAX**: Using Existing Video and Audio-based Activity Recognition Models to Bootstrap Privacy-Sensitive Sensors ([paper](https://dl.acm.org/doi/abs/10.1145/3610907)) ([notes](https://drive.google.com/file/d/1dl7RzKTX7nXxt1Lk4mku6yqqQx-JQdrS/view?usp=sharing)) [5 / 5]
-- **FINANCEBENCH: A New Benchmark for Financial Question Answering** ([paper](https://arxiv.org/pdf/2311.11944)) (notes (coming soon))
+- **FINANCEBENCH: A New Benchmark for Financial Question Answering** ([paper](https://arxiv.org/pdf/2311.11944)) ([notes](https://github.com/annimukherjee/Paper_Notes/blob/main/notes/financebench_notes.md) (incomplete))
 
