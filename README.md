@@ -19,4 +19,5 @@ Paper's I've read with notes listed in no particular order below. Further, paper
 - **The AI Alignment Paradox** ([paper](https://arxiv.org/abs/2405.20806v2)) [2 / 5]
 - **VAX**: Using Existing Video and Audio-based Activity Recognition Models to Bootstrap Privacy-Sensitive Sensors ([paper](https://dl.acm.org/doi/abs/10.1145/3610907)) ([notes](https://drive.google.com/file/d/1dl7RzKTX7nXxt1Lk4mku6yqqQx-JQdrS/view?usp=sharing)) [5 / 5]
 - **FINANCEBENCH: A New Benchmark for Financial Question Answering** ([paper](https://arxiv.org/pdf/2311.11944)) ([notes](https://github.com/annimukherjee/Paper_Notes/blob/main/notes/financebench_notes.md) (incomplete))
+- Detecting Receptivity for mHealth Interventions in the Natural Environment ([paper](https://dl.acm.org/doi/pdf/10.1145/3463492)) ([notes](https://annimukherjee.notion.site/Detecting-Receptivity-for-mHealth-Interventions-in-the-Natural-Environment-1896bd02bc1d80f5bb1ed0e7315aa419))
 
