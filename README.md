@@ -1,6 +1,6 @@
 # Paper_Notes
 
-Inspired from [Daniel Seita](https://github.com/DanielTakeshi/Paper_Notes/tree/master?tab=readme-ov-file) and [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes).
+This repository and record has been inspired by similar ones maintained by [Daniel Seita](https://github.com/DanielTakeshi/Paper_Notes/tree/master?tab=readme-ov-file) and [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes).
 
 ---
 
@@ -22,5 +22,6 @@ Paper's I've read with notes listed in no particular order below. Further, paper
 - **Detecting Receptivity for mHealth Interventions in the Natural Environment** ([paper](https://dl.acm.org/doi/pdf/10.1145/3463492)) ([notes](https://annimukherjee.notion.site/Detecting-Receptivity-for-mHealth-Interventions-in-the-Natural-Environment-1896bd02bc1d80f5bb1ed0e7315aa419))
 - **Retrieval Augmented Fraud Detection** ([paper](https://dl.acm.org/doi/10.1145/3677052.3698692)) [4 / 5]
 - **SAINT: Improved Neural Networks for Tabular Data via Row Attention and Contrastive Pre-Training** ([paper](https://arxiv.org/pdf/2106.01342), [code](https://github.com/annimukherjee/saint))
-- **QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning** ([paper](https://drive.google.com/file/d/1M15FvZIpilzLur2bOB2M7akvJFq9sr7X/view?usp=sharing), [notes](https://annimukherjee.notion.site/qmix-paper-notes))
+- **QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning** ([paper](https://drive.google.com/file/d/1M15FvZIpilzLur2bOB2M7akvJFq9sr7X/view?usp=sharing), [notes](https://annimukherjee.notion.site/qmix-paper-notes)) [ 3 / 5 ]
+- **Towards Optimizing Hyperledger Fabric Performance through Strategic Waiting** ([paper](https://drive.google.com/file/d/1wu-rBbN7I8WasReUV2RoVuVzomXWZE8n/view?usp=sharing), [notes](https://annimukherjee.notion.site/towards-opt-hlf-strat-wait-notes)) [ 5 / 5 ]
 
